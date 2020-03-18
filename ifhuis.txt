@@ -1,0 +1,23 @@
+<!DOCKTYPE html>
+<html lang="es">
+    <head>
+        <title>Viba el vhino</title>
+        <meta charset="utf-8">
+        link rel="stylesheet" href="estilos.css"
+    <head>
+    <body>
+        <header>
+        Viba el vhino
+        </header>
+        <main>
+            <section>
+                <article>
+			Viba el vhino
+                </article>
+            </section>
+            <aside>
+            </aside>
+        </main>
+        <footer>
+        </footer>
+</body>
